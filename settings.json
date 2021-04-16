@@ -1,0 +1,6 @@
+{
+    "token": "Token",
+	"originalGuildId": "Id du serveur à copié",
+    "newGuildId": "Id de votre serveur",
+    "newGuildAdminRoleId": "Id d'un rôle avec perm admin sur votre serveur"
+}
